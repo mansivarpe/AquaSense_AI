@@ -1,0 +1,6 @@
+Dataset rows: 499
+Dataset columns: 21
+Missing cells: 943
+First timestamp: 2026-11-10 04:57:00
+Last timestamp: 2026-11-10 13:15:00
+Duplicate timestamps: 0
