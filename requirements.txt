@@ -3,3 +3,7 @@ pandas
 numpy
 scikit-learn==1.9.1
 joblib
+fastapi==0.143.0
+fastjsonschema==2.22.2
+fonttools==4.66.1
+fqdn==1.6.0
